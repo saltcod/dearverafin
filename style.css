@@ -796,9 +796,6 @@ button,
   white-space: nowrap;
   text-overflow: ellipsis;
   line-height: 20px;
-  -webkit-transition: all 0.3s ease-out;
-  -moz-transition: all 0.3s ease-out;
-  transition: all 0.3s ease-out;
 }
 button:hover,
 .button:hover,
@@ -1212,10 +1209,14 @@ in general anyone not viewing on a mobile device.
     padding: 40px 0;
   }
   section.first {
-    background: url(images/cover2-mobile.jpg) no-repeat center center fixed;
+    background: url(images/cover2.jpg) no-repeat center center fixed;
     background-position: -5px -5px;
+    background-size: 450px 300px;
     padding: 0;
     height: auto;
+  }
+  section.first p.huge {
+    margin-bottom: 25px;
   }
   section.about-you {
     border-top: 1px solid rgba(0, 0, 0, 0.1);
