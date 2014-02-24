@@ -155,13 +155,7 @@
 	</div>
 </section>
 
-
-
-
-
-
-
-
+ 
 
 <section class="red group">
 	<div class="limiter">
