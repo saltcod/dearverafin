@@ -1208,4 +1208,10 @@ in general anyone not viewing on a mobile device.
   .mobile-hide {
     display: none;
   }
+  section.first {
+    background: url(images/cover2-mobile.jpg) no-repeat center center fixed;
+    background-position: -5px -5px;
+    padding: 0;
+    height: auto;
+  }
 }

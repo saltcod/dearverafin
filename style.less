@@ -363,8 +363,8 @@ section.first{
 	-o-background-size: cover;
 	background-size: cover;
 	filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.myBackground.jpg', sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
-    zoom:1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
+	zoom:1;
 	text-shadow: 1px 1px 1px rgba(0,0,0,.25);
 
 	h2 { font-size: 2em; font-weight: 400; }
@@ -377,7 +377,7 @@ section.first{
 	}
 
 	.huge {
-		}
+	}
 
 }
 .table-of-contents{
@@ -1019,7 +1019,15 @@ in general anyone not viewing on a mobile device.
 -------------------------------------------------------------- */
 
 @media screen and (max-width: 767px) {
-    .huge { font-size: 1.75em}
-    .byline { font-size: 1em;}
-    .mobile-hide {display: none;}
+	.huge { font-size: 1.75em}
+	.byline { font-size: 1em;}
+	.mobile-hide {display: none;}
+
+
+	section.first{
+		background: url(images/cover2-mobile.jpg) no-repeat center center fixed;
+		background-position: -5px -5px;
+		padding: 0;
+		height: auto;
+	}
 }
