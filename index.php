@@ -53,8 +53,8 @@
 
 
 
-<section class="group ">
-	<div class="limiter keyline-top pad4y">
+<section class="gray group">
+	<div class="limiter pad4y">
 		<h2 class="section-title red">A little about me</h2>
 		<p class="byline keyline-bottom center pad2y">I'm a teacher and designer, passionate about helping others and sharing what I know. I live for new challenges and have a thirst for learning. </p>
 		
@@ -86,7 +86,7 @@
 
 <section class="redbg white center big mobile-hide group"> 
 	<div class="limiter"> 
-		<h2>8 Quick Facts about Terry</h2>
+		<h2 class="handwriting">8 Quick Facts about Terry:</h2>
 		<div id="Demo" data-typer-targets='
 		{ "targets" : [
 		"Terry is a designer.",
@@ -103,7 +103,7 @@
 </section>
 
 
-<section class="group">
+<section class="about-you group">
 	<div class="limiter">
 		<h2 class="section-title red pad4y">A little about you</h2>
 		
@@ -163,7 +163,7 @@
 
 
 
-<section class="red group keyline-bottom">
+<section class="red group">
 	<div class="limiter">
 		<h2 class="section-title">In conclusion!</h2>
 		<p class="center">If you're looking for an energetic, flexible, adaptable, creative problem-solver to add to your team, I think I'm the right person. I'd love to have a chat with you about it.</p>
@@ -171,7 +171,7 @@
 
 </section>
 
-<section class="group keyline-bottom">
+<section class="group gray">
 	<div class="limiter">
 		<div class="col4"><h2 class="section-title">Let's have a chat</h2></div>
 		
