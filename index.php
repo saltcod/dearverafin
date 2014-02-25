@@ -76,7 +76,7 @@
 			
 			<div class="col2 margin0"><h2>Education</h2></div>
 			<div class="col8 margin1 pad1x">
-				<p>I have degrees in Arts and Education, and completed a graduate diplomma in epidemiology for fun(?) while I worked at Eastern Health.</p>
+				<p>I have degrees in Arts and Education, and completed a graduate diploma in epidemiology for fun(?) while I worked at Eastern Health.</p>
 			</div>
 
 		</div>
