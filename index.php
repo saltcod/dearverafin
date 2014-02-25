@@ -133,7 +133,7 @@
 
 		<div class="group pad4y keyline-bottom">
 			<div class="col5 call pad2x">Why Verafin?</div>
-			<div class="col6 margin0">As I mentioned, Verafin is know around town to be a very cool, fun and progressive company. More important than that though, you've got a mission. This combination of fun and purpose is an attractive one for prospective employees.</div>
+			<div class="col6 margin0">As I mentioned, Verafin is known around town to be a very cool, fun and progressive company. More important than that though, you've got a mission. This combination of fun and purpose is an attractive one for prospective employees.</div>
 		</div>
 
 		<div class="group pad4y keyline-bottom">
