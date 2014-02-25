@@ -21,6 +21,16 @@
 
 
 	<link href='style.css' rel='stylesheet' type='text/css'>
+	<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+	ga('create', 'UA-48386962-1', 'waterstreetgm.org');
+	ga('send', 'pageview');
+
+	</script>
 </head>
 
 
@@ -139,62 +149,62 @@
 		<div class="group pad4y keyline-bottom">
 			<div class="col5 call pad2x">What do you have to offer us?</div>
 			<div class="col6 margin0"><p>I'm bright, sharp, creative and have a lot of different skills to offer. I like to solve problems and get things done. I definitely think I can fill the role I'm applying for, but beyond that, I think I'd be an excellent addition to the team. </p> 
-			<p>Since I've been here at MUN, I've done lots of training, built knowledgebases and documentation sites, and designed lots of course materials. I really think I have a lot to contribute.</p></div>
-		</div>
+				<p>Since I've been here at MUN, I've done lots of training, built knowledgebases and documentation sites, and designed lots of course materials. I really think I have a lot to contribute.</p></div>
+			</div>
 
-		<div class="group pad4y keyline-bottom">
-			<div class="col5 call pad2x">What's wrong with your current job?</div>
-			<div class="col6 margin0">Verafin's promise of change and a quick pace is really attractive. MUN is a great place to work, but <span class="highlight-red">I'm ready for a new challenge</span>, in a new environment.</div>
-		</div>
+			<div class="group pad4y keyline-bottom">
+				<div class="col5 call pad2x">What's wrong with your current job?</div>
+				<div class="col6 margin0">Verafin's promise of change and a quick pace is really attractive. MUN is a great place to work, but <span class="highlight-red">I'm ready for a new challenge</span>, in a new environment.</div>
+			</div>
 
-		<div class="group pad4y keyline-bottom">
-			<div class="col5 call pad2x">Do you have an <em>actual</em> resume? </div>
-			<div class="col6 margin0">Absolutely! You can have a look at that, right over <a href="images/terry-sutton-resume.pdf">here</a>!</div>
-		</div>
-
-	</div>
-</section>
-
- 
-
-<section class="red group">
-	<div class="limiter">
-		<h2 class="section-title">In conclusion!</h2>
-		<p class="center">If you're looking for an energetic, flexible, adaptable, creative problem-solver to add to your team, I think I'm the right person. I'd love to have a chat with you about it.</p>
-	</div>
-
-</section>
-
-<section class="group gray">
-	<div class="limiter">
-		<div class="col4"><h2 class="section-title">Let's have a chat</h2></div>
-		
-		<div class="col6 margin2">
-		<p>I'd love to have a quick chat about all the stuff I mentioned above.  I look forward to hearing from you!</p>
-		
-		<p><a href="mailto:saltcod@gmail.com">saltcod@gmail.com</a>
-		 / 689-7969</p>
+			<div class="group pad4y keyline-bottom">
+				<div class="col5 call pad2x">Do you have an <em>actual</em> resume? </div>
+				<div class="col6 margin0">Absolutely! You can have a look at that, right over <a href="images/terry-sutton-resume.pdf">here</a>!</div>
+			</div>
 
 		</div>
+	</section>
 
-	</div>
+	
 
-</section>
+	<section class="red group">
+		<div class="limiter">
+			<h2 class="section-title">In conclusion!</h2>
+			<p class="center">If you're looking for an energetic, flexible, adaptable, creative problem-solver to add to your team, I think I'm the right person. I'd love to have a chat with you about it.</p>
+		</div>
+
+	</section>
+
+	<section class="group gray">
+		<div class="limiter">
+			<div class="col4"><h2 class="section-title">Let's have a chat</h2></div>
+			
+			<div class="col6 margin2">
+				<p>I'd love to have a quick chat about all the stuff I mentioned above.  I look forward to hearing from you!</p>
+				
+				<p><a href="mailto:saltcod@gmail.com">saltcod@gmail.com</a>
+					/ 689-7969</p>
+
+				</div>
+
+			</div>
+
+		</section>
 
 
 
 
-<section class="group center">
-	<div class="limiter">
-		<h2 class="section-title">Thanks for your time!</h2>
-		
-		<span class="handwriting  huge">Terry Sutton</span>
+		<section class="group center">
+			<div class="limiter">
+				<h2 class="section-title">Thanks for your time!</h2>
+				
+				<span class="handwriting  huge">Terry Sutton</span>
+
+			</div>
 
 		</div>
 
-	</div>
-
-</section>
+	</section>
 
 
 
