@@ -61,8 +61,6 @@
 </section>
 
 
-
-
 <section class="gray group">
 	<div class="limiter pad4y">
 		<h2 class="section-title red">A little about me</h2>
@@ -129,12 +127,7 @@
 		</div>
 	</div>
 </section>
-
-
-
-
-
-
+ 
 
 <section class="gray group">
 	<div class="limiter">
